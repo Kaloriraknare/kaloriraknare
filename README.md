@@ -1,6 +1,8 @@
 **Kaloriräknare: En modern svensk lösning**
 Kaloriräknare är en svenskutvecklad kostapp för både iOS och Android. Den bygger på en omfattande svensk livsmedelsdatabas och är skapad för att ge tydlig överblick över energiintag och förbrukning. Över tusen användare har uppnått sina mål med hjälp av tjänsten, och globalt har den ett medelbetyg på 4.8 stjärnor. Teamet bakom lösningen är närvarande i Stockholm, där de fortlöpande arbetar med förbättringar och användarstöd.
 
+Applikationen finns tillgänglig på [https://kaloriraknare.se/](https://kaloriraknare.se/).
+
 **Funktioner som följer användaren genom dagen**
 Appen gör det enkelt att registrera måltider, kontrollera näringsvärden och se tydliga mönster i matvanor och energibalans. Användaren kan justera mål, spara favoriträtter, logga aktiviteter och ställa in personliga påminnelser. Genom lättöverskådliga sammanställningar går det att följa utvecklingen över tid och förstå hur även små justeringar påverkar helheten.
 
